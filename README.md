@@ -115,3 +115,23 @@ Install all required packages with:
 
 pip install -r requirements.txt
 
+## Report Summary
+
+A `report.pdf` is included in the project directory, summarizing:
+
+- Objective and problem statement
+- Dataset and training setup
+- Detection and tracking pipeline
+- Annotation strategy
+- Challenges faced during development
+- Suggested improvements and future work
+
+This PDF serves as a concise overview for evaluators or reviewers.
+
+## Author
+
+Tejasvini Rachamalla  
+B.E. – Artificial Intelligence and Data Science  
+Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad
+
+
